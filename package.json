@@ -7,10 +7,11 @@
     "test": "test"
   },
   "dependencies": {
-    "tape": "~1.1.0",
     "robust-determinant-3": "~0.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "tape": "~1.1.0"
+  },
   "scripts": {
     "test": "tap test/*.js"
   },
