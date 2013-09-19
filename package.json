@@ -1,0 +1,37 @@
+{
+  "name": "left-right",
+  "version": "0.0.0",
+  "description": "Computes the orientation of 3 points",
+  "main": "leftright.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "~1.1.0",
+    "robust-determinant-3": "~0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/left-right.git"
+  },
+  "keywords": [
+    "robust",
+    "geometric",
+    "predicate",
+    "left",
+    "right",
+    "plane",
+    "orientation",
+    "clockwise",
+    "colinear"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/left-right/issues"
+  }
+}
