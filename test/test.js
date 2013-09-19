@@ -11,5 +11,7 @@ require("tape")(function(t) {
   t.equals(lr([1e64, 0], [0, 0], [0, 1e-64]), -1)
   t.equals(lr([1e64, 0], [0, 0], [0, -1e-64]), 1)
   
+  t.equals(lr([100, 100], [1, 1], [30, 0]), 1)
+  
   t.end()
 })
