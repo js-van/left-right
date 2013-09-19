@@ -1,6 +1,6 @@
 {
   "name": "left-right",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Computes the orientation of 3 points",
   "main": "leftright.js",
   "directories": {
