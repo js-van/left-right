@@ -7,7 +7,10 @@
     "test": "test"
   },
   "dependencies": {
-    "robust-determinant-3": "~0.0.0"
+    "two-product": "~0.0.0",
+    "two-sum": "~0.1.0",
+    "robust-scale": "~0.0.2",
+    "robust-sum": "~0.0.0"
   },
   "devDependencies": {
     "tape": "~1.1.0"
