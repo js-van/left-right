@@ -2,6 +2,8 @@ left-right
 ==========
 Tests if 3 points are oriented clockwise, counter-clockwise or colinear.
 
+**WARNING** This module is deprecated.  You should use [robust-orientation](https://www.npmjs.org/package/robust-orientation) instead.
+
 ## Example
 
 ```javascript
